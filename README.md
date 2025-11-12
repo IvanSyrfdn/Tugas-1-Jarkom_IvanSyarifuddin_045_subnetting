@@ -1,6 +1,6 @@
 # Tugas-1-Jarkom_IvanSyarifuddin_045_subnetting
 
-# Tugas 1 Jarkom - VLSM, CIDR, & Static Routing
+# Tugas 1 Jarkom - VLSM, CIDR
 
 
 * **Nama:** Ivan Syarifuddin
