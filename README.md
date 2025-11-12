@@ -43,7 +43,7 @@ Perhitungan VLSM dilakukan dengan mengurutkan kebutuhan host dari yang terbesar 
 6.  Server & Admin: 6 host
 7.  Link WAN (Antar-Router): 2 host
 
-Hasil perhitungan VLSM lengkap (mencakup Network, Mask, Prefix, Range Host, Broadcast, Gateway) untuk 7 subnet di atas dapat dilihat pada file `Tugas 1 Jarkom_[Nama]_[NRP].xlsx` di repositori ini.
+Hasil perhitungan VLSM lengkap (mencakup Network, Mask, Prefix, Range Host, Broadcast, Gateway) untuk 7 subnet di atas dapat dilihat pada file `Tugas 1 Jarkom(subnetting)` di repositori ini.
 
 ### 3. Perhitungan CIDR (Route Aggregation)
 
